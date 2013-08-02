@@ -1,0 +1,1 @@
+A simple Dockerfile to setup a salt-minion for dry-run testing of Salt states.
