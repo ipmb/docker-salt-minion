@@ -1,4 +1,4 @@
-ROM debian:jessie
+FROM debian:jessie
 MAINTAINER Peter Baumgartner "pete@lincolnloop.com"
 
 RUN echo "deb http://debian.saltstack.com/debian jessie-saltstack main" > /etc/apt/sources.list.d/saltstack.list
